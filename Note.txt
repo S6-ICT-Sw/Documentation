@@ -1,6 +1,0 @@
-looking into why the number of user on the website and why the number.
-non require are number.
-What do you validate the deployement
-how do you validate the non-functional
-be specific on the security like what security.
-Give the reason why you do micro service.
